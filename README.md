@@ -1,5 +1,9 @@
 # Serious Games
 
+DISCLAIMER: Please keep in mind that this project was made for adademic purposes (Degree Thesis).
+Apologies for the lack of comments. Feel free to contact me for any questions.
+
+
 -----------------AppDataBase class---------------------
 
 This class is an abstract and extends the RoomDatabase because in this way we define our db
