@@ -1,4 +1,4 @@
-# NewDiplwm
+# Serious Games
 
 -----------------AppDataBase class---------------------
 
