@@ -3,6 +3,30 @@
 DISCLAIMER: Please keep in mind that this project was made for adademic purposes (Degree Thesis).
 Apologies for the lack of comments. Feel free to contact me for any questions.
 
+-----------------Summary---------------------
+The present bachelor thesis refers to the design, the development and the evaluation of an
+Android mobile application. The application contains 12 Serious Games. These games were
+designed to activate some various cognitive skills of the brain such as caution, memory,
+visual and acoustic perception. The app is intended for users of advanced age (55+) who aim
+to improve their cognitive skills. This Thesis was made by two students (Vasilis Kassikos,
+Antonis Antonopoulos). At the first stage the Android environment and the technologies that it
+offers had been studied, so we could use them later in our development. At the same time,
+we studied the impact that these games can do for the medical treatment of some cognitive
+disorders (early stages of dementia and Alzheimers disease). Because of that we understood
+the ultimate goal of this Thesis from the beginning. Therefore, the design of the application
+started, the main screens and the navigation between them were approached. Furthermore,
+the relational (SQL) database that the app used was designed. The last step of the design
+was the definition of the 12 games and their difficulty levels. The next phase was the
+development of the application were the main concern was its user-centric appearance. First
+of all, the main functionalities of the app were developed, then the development and the
+integration of one game at a time took place. After the completion of the development, we
+made some alterations that our supervisor professor suggested, before we reached out to the
+final version of the application. The last phase of this Thesis was the evaluation of the app
+from 6 users of advanced age, they did a full use of the application and they filled some
+related questionnaires. Their answers provided some useful results and conclusions for the
+application and more generally the impact of Serious Games to the medical apps field.
+
+
 
 -----------------AppDataBase class---------------------
 
