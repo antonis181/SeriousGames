@@ -4,6 +4,8 @@ DISCLAIMER: Please keep in mind that this project was made for adademic purposes
 Apologies for the lack of comments. Feel free to contact me for any questions.
 
 -----------------Summary---------------------
+
+
 The present bachelor thesis refers to the design, the development and the evaluation of an
 Android mobile application. The application contains 12 Serious Games. These games were
 designed to activate some various cognitive skills of the brain such as caution, memory,
